@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f9eaac-5506-4f35-9e0a-b915fe011509" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/src/V.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/V.java" afterDir="false" />
-    </list>
+    <list default="true" id="29f9eaac-5506-4f35-9e0a-b915fe011509" name="Changes" comment="Add boilerplate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711353777521</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add dice images">
+      <created>1711354404608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711354404608</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add boilerplate">
+      <created>1711354437988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711354437988</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +79,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add dice images" />
+    <MESSAGE value="Add boilerplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add boilerplate" />
   </component>
 </project>
